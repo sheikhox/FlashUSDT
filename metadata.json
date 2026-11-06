@@ -1,0 +1,6 @@
+{
+  "name": "Flash USDT",
+  "description": "Flash USDT wallet, transfer generator, and transaction tracker with centered USDT logo and real-time network simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
